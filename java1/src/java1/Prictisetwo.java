@@ -35,7 +35,7 @@ public class Prictisetwo
 
 	public void setUage(int uage)
 	{
-		if(this.uage>0 && this.uage<120)
+		if(uage>0 && uage<120)
 		{
 			this.uage=uage;
 		}
